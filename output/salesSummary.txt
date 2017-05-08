@@ -1,0 +1,7 @@
+       NA               SA              Eur             Pac            China            World     
+ Min.   : 360.0   Min.   : 250.0   Min.   :480.0   Min.   :190.0   Min.   :  0.00   Min.   :1592  
+ 1st Qu.: 637.5   1st Qu.: 412.5   1st Qu.:577.5   1st Qu.:250.0   1st Qu.:  0.00   1st Qu.:1962  
+ Median : 835.0   Median : 605.0   Median :647.5   Median :270.0   Median : 23.00   Median :2408  
+ Mean   :1075.0   Mean   : 598.4   Mean   :648.0   Mean   :272.2   Mean   : 46.65   Mean   :2640  
+ 3rd Qu.:1407.5   3rd Qu.: 806.2   3rd Qu.:720.0   3rd Qu.:300.0   3rd Qu.:100.50   3rd Qu.:3222  
+ Max.   :2490.0   Max.   :1002.0   Max.   :888.0   Max.   :350.0   Max.   :139.00   Max.   :4476  

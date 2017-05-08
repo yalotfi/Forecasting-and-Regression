@@ -1,0 +1,16 @@
+ Delivery speed   Price level    Price flexibility Manufacturing image Overall service Salesforce image Product quality 
+ Min.   :0.000   Min.   :0.200   Min.   : 5.000    Min.   :2.500       Min.   :0.700   Min.   :1.100    Min.   : 3.700  
+ 1st Qu.:2.500   1st Qu.:1.425   1st Qu.: 6.700    1st Qu.:4.550       1st Qu.:2.400   1st Qu.:2.200    1st Qu.: 5.800  
+ Median :3.400   Median :2.200   Median : 8.100    Median :5.000       Median :3.000   Median :2.600    Median : 7.100  
+ Mean   :3.515   Mean   :2.366   Mean   : 7.896    Mean   :5.249       Mean   :2.929   Mean   :2.665    Mean   : 6.967  
+ 3rd Qu.:4.600   3rd Qu.:3.275   3rd Qu.: 9.100    3rd Qu.:6.000       3rd Qu.:3.500   3rd Qu.:3.000    3rd Qu.: 8.300  
+ Max.   :6.100   Max.   :5.400   Max.   :10.000    Max.   :8.200       Max.   :4.600   Max.   :4.600    Max.   :10.000  
+                 NA's   :2       NA's   :2         NA's   :1           NA's   :5                        NA's   :80      
+  Usage Level    Satisfaction Level  Size of firm Purchasing Structure    Industry    Buying Type   
+ Min.   :25.00   Min.   :3.200      Min.   :0.0   Min.   :0.0          Min.   :0.0   Min.   :1.000  
+ 1st Qu.:39.00   1st Qu.:4.100      1st Qu.:0.0   1st Qu.:0.0          1st Qu.:0.0   1st Qu.:1.000  
+ Median :46.50   Median :4.900      Median :0.0   Median :0.5          Median :0.5   Median :2.000  
+ Mean   :46.10   Mean   :4.773      Mean   :0.4   Mean   :0.5          Mean   :0.5   Mean   :2.005  
+ 3rd Qu.:53.25   3rd Qu.:5.400      3rd Qu.:1.0   3rd Qu.:1.0          3rd Qu.:1.0   3rd Qu.:3.000  
+ Max.   :65.00   Max.   :6.800      Max.   :1.0   Max.   :1.0          Max.   :1.0   Max.   :4.000  
+                 NA's   :1                                                                          

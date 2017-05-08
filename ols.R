@@ -1,11 +1,7 @@
 rm(list = ls())
 
 # install.packages("readxl", dependencies = T)
-# install.packages("reshape2", dependencies = T)
-# install.packages("car", dependencies = T)
 library(readxl)
-library(reshape2)
-library(car)
 
 ## Set working directory
 # getwd()  # See where current directory is and change it
